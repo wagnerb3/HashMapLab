@@ -1,0 +1,27 @@
+Collision Counts
+
+Hash1, Collision1
+	Original - 7668
+	Post	 - 3002460
+
+Hash1, Collision2
+	Original - 8093
+	Post	 - 598440
+
+Hash2, Collision2
+	Original - 6560
+	Post	 - 11710
+
+Hash2, Collision1
+	Original - 6425
+	Post	 - 10702
+
+
+Favorite Phrases
+
+1) Quite happy to pay.
+2) And I'm the cake!
+3) the wind smells slow-and-sour
+4) The Grinch thought the Star-Belly children had frankfurter roasts
+5) they will eat them in the trees
+6) And I saw mother's new office door.
